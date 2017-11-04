@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ConverterViewController.swift
 //  Conversion Calculator
 //
 //  Created by Holt Skinner on 11/4/17.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ConverterViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
